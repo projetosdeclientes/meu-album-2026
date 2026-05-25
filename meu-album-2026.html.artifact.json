@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "kind": "html",
+  "title": "Meu Álbum 2026 — Landing Page",
+  "entry": "meu-album-2026.html",
+  "renderer": "html",
+  "status": "complete",
+  "exports": [
+    "html",
+    "pdf",
+    "zip"
+  ],
+  "createdAt": "2026-05-24T20:51:48.590Z",
+  "updatedAt": "2026-05-24T20:51:48.600Z",
+  "sourceSkillId": "agent-browser",
+  "metadata": {
+    "identifier": "meu-album-2026",
+    "artifactType": "text/html",
+    "inferred": false
+  }
+}
